@@ -1,4 +1,7 @@
-flask
 numpy
+pandas
+tensorflow
 sklearn
-version=1.6-snapshot
+keras
+matplotlib
+version=1.5
