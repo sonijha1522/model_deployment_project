@@ -1,0 +1,7 @@
+numpy
+pandas
+tensorflow
+sklearn
+keras
+matplotlib
+version=1.5
